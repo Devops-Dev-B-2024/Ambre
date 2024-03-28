@@ -1,0 +1,42 @@
+Les silots : 
+
+    - Dev 
+    - Opérateur
+    - Sécurité
+    Peut être plus mais je ne sais plus
+
+Les pratiques devops :
+
+    Pas au courant
+
+Le schéma d'architecture global :
+
+    Pas au courant
+
+Le processus de build :
+
+    Pas au courant
+
+Le processus de déploiement :
+
+    Pas au courant
+
+Le processus release :
+
+    Pas au courant
+
+Les moyens mis en oeuvre pour tester :
+
+    Pas au courant
+
+Les points de blocages : 
+
+    Pas au courant
+
+Les bons points :
+
+    Pas au courant
+
+Les outils utilisés :
+
+    Pas au courant
