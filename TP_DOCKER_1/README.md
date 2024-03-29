@@ -23,4 +23,15 @@
   
   a. echo >> "Dockerfile" ou clique droit  
 
-  b. 
+  b. docker build -t serverweb .  
+  ![Q 4b](image4b.png)  
+  
+  c. La méthode de la question 4 est mieux pour créer les images  
+  Q3 points forts/faibles :  
+  - beaucoup de commandes  
+  - moins bien  
+    
+
+  Q4 points forts/faibles :  
+  + mettre dans un fichier c'est mieux pour y accéder  
+  + c'est mieux, j'ai mieux compris  
