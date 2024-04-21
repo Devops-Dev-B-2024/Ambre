@@ -1,5 +1,6 @@
 3.  
   
+  
     a. docker pull httpd  
     ![Q 3a](image3a.png)  
 
@@ -20,7 +21,7 @@
     docker cp ./public-html mondocker:/usr/local/apache2/htdocs/  
     ![Q 3f2](image3f2.png)  
   
-4.  
+3.  
   
   a. echo >> "Dockerfile" ou clique droit  
 
