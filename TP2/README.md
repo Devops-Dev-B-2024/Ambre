@@ -45,16 +45,16 @@
   b.docker run -d -p 8080:80 mariadb  
   docker run -d -p 8080:80 phpmyadmin  
   ![Q 5b](image5b.png)  
-
+  
   ![Q 5bb](image5bb.png)  
-  Je n'arrive pas a me connecter  
+  Je n'arrive pas a me connecter    
     
-6.
-
-  a. Docker compose permet de lancer plusieurs container. Elle permet de les créer et de les lancer tout les services que l'on souhaite et elle peut donner pleins d'informations sur les services. Tandis que docker run ne permet d'agir que sur un seul container a la fois.
-
-  b. docker compose up
-  docker compose down
-
-  c. docker compose up -d
-  ![Q 6c](image6c.png)
+6.  
+  
+  a. Docker compose permet de lancer plusieurs container. Elle permet de les créer et de les lancer tout les services que l'on souhaite et elle peut donner pleins d'informations sur les services. Tandis que docker run ne permet d'agir que sur un seul container a la fois.  
+  
+  b. docker compose up  
+  docker compose down  
+  
+  c. docker compose up -d  
+  ![Q 6c](image6c.png)  
