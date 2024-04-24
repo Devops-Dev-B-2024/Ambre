@@ -1,4 +1,4 @@
-2. ![Q 2](image2.png) 
+2. ![Q 2](api_metacritic_game/image2.png) 
 
 3. docker network create nodejs-network
 docker run --network nodejs-network -e MYSQL_ROOT_PASSWORD=passwd -e MYSQL_DATABASE=meta --name nodejs-mysql -d mysql
@@ -6,13 +6,13 @@ docker run --network nodejs-network -e MYSQL_ROOT_PASSWORD=passwd -e MYSQL_DATAB
 3/4. docker build -t tp3 .
 
 3/4. docker run --network nodejs-network -p 3000:3000  tp3
-![Q 34](image34.png)
+![Q 34](api_metacritic_game/image34.png)
 
 
 5. docker compose up --build
 
 
-![Q 6/7/8](image.png)
+![Q 6/7/8](api_metacritic_game/image.png)
 
 Questions :
 
