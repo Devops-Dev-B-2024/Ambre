@@ -17,6 +17,6 @@ jobs:
     - name: Build the Docker image
       run: |
         cd  ./TP3/api_metacritic_game/
-        docker build -t namiou/tp-docker
+        docker build -t namiou/tp-docker .
         echo "${{ secrets.DOCKER_PASSWORD }}" | docker login -u ${{ secrets.DOCKER_USERNAME }} --pasword--stdin
         docker push namiou/tp-docker
