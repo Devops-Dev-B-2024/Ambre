@@ -4,7 +4,8 @@
   "main": "app.js",
   "scripts": {
     "test": "jest",
-    "start": "node server.js"
+    "start": "node server.js",
+    "lint": "eslint . --ext .js"
   },
   "author": "",
   "license": "ISC",
